@@ -5,7 +5,7 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 
 ## Staff
 
-![Alt text](https://www.linguagemdemaquina.com.br/avatar/avatar_transparente.png "Marcelo Tosta - FullStack Developer")
+![AVATAR](https://www.linguagemdemaquina.com.br/avatar/avatar_transparente.png "Marcelo Tosta - FullStack Developer")
 
 
 
@@ -16,7 +16,7 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 
 ## Encontre-nos
 
-[URL/Website](https://www.linguagemdemaquina.com.br)
+[Website](https://www.linguagemdemaquina.com.br)
 
 
 - [@marcelotostadesantana](https://www.instagram.com/marcelotostadesantana)
