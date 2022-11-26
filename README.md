@@ -6,7 +6,10 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 
 ## Staff
 
+![Alt text](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_horizontal_pequena.png "Marcelo Tosta - FullStack Developer")
 - [@marcelotostadesantana](https://www.instagram.com/marcelotostadesantana)
+
+
 
 
 ![Logo](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_horizontal_pequena.png)
