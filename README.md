@@ -9,5 +9,5 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 - [@marcelotostadesantana](https://www.instagram.com/marcelotostadesantana)
 
 
-![Logo](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_horizontal.png)
+![Logo](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_horizontal_pequena.png)
 
