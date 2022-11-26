@@ -17,12 +17,8 @@ Trabalhamos com as mais diversas tecnologias a exemplo :
 ## Encontre-nos
 
 [Website](https://www.linguagemdemaquina.com.br)
-
-
-- [@marcelotostadesantana](https://www.instagram.com/marcelotostadesantana)
-
-
-
+[Instagram](https://www.instagram.com/linguagemdemaquina)
+[Facebook](https://www.facebook.com/linguagemdemaquina.com.br)
 
 ![Logo](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_horizontal_pequena.png)
 
