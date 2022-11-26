@@ -27,5 +27,5 @@ Trabalhamos com as mais diversas tecnologias a exemplo :
 <br>
 [Facebook](https://www.facebook.com/linguagemdemaquina.com.br)
 <br>
-![Logo](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_horizontal_pequena.png)
+![Logo](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png)
 
