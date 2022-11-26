@@ -7,9 +7,9 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 
 ![AVATAR](https://www.linguagemdemaquina.com.br/avatar/avatar_transparente.png "Marcelo Tosta - FullStack Developer")
 
+## Nossa Atividade
 
-
-
+Trabalhamos com as mais diversas tecnologias a exemplo : 
 
 
 
