@@ -16,6 +16,7 @@ Trabalhamos com as mais diversas tecnologias a exemplo :
 
 ## Encontre-nos
 
+:globe_with_meridians:
 [Website](https://www.linguagemdemaquina.com.br)
 <br>
 [Instagram](https://www.instagram.com/linguagemdemaquina)
