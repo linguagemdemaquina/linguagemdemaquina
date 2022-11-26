@@ -6,6 +6,8 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 ## Staff
 
 ![AVATAR](https://www.linguagemdemaquina.com.br/avatar/avatar_transparente.png "Marcelo Tosta - FullStack Developer")
+<br>
+**Marcelo Tosta de Santana** - *Proprietário & FullStack Developer*
 
 ## Nossa Atividade
 
