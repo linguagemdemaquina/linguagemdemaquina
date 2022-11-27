@@ -20,6 +20,8 @@ Trabalhamos com as mais diversas tecnologias a exemplo :
 
 ## Encontre-nos
 
+
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 :globe_with_meridians:
 [Website](https://www.linguagemdemaquina.com.br)
 <br>
