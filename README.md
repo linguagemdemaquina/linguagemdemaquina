@@ -28,7 +28,7 @@ Utilizamos as seguintes os seguintes Ambientes de Desenvolvimento Integrado (IDE
 | VISUAL STUDIO | ANDROID STUDIO |
 
 
-## Encontre-nos
+## Encontre-nos em nossas redes
 
 :globe_with_meridians:
 [Website](https://www.linguagemdemaquina.com.br)
@@ -37,6 +37,7 @@ Utilizamos as seguintes os seguintes Ambientes de Desenvolvimento Integrado (IDE
 [Instagram](https://www.instagram.com/linguagemdemaquina)
 <br>
 [Facebook](https://www.facebook.com/linguagemdemaquina.com.br)
+<br>
 <br>
 ![Logo](https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png)
 
