@@ -25,7 +25,7 @@ Utilizamos as seguintes os seguintes Ambientes de Desenvolvimento Integrado (IDE
 
 | <img id="visual_studio" src="https://www.linguagemdemaquina.com.br/icones/icone_visual_studio.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="android_studio" src="https://www.linguagemdemaquina.com.br/icones/icone_android_studio.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | 
 |:-----:|:-----:|
-| VISUAL STUDIO CODE | ANDROID STUDIO |
+| VISUAL STUDIO | ANDROID STUDIO |
 
 
 ## Encontre-nos
