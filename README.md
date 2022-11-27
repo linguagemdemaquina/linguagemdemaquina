@@ -23,7 +23,7 @@ Trabalhamos com as mais diversas tecnologias a exemplo :
 :globe_with_meridians:
 [Website](https://www.linguagemdemaquina.com.br)
 <br>
-<img src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" width=24px height=24px>
+<A HREF="https://www.instagram.com/linguagemdemaquina"><img src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" width=24px height=24px></A>
 [Instagram](https://www.instagram.com/linguagemdemaquina)
 <br>
 [Facebook](https://www.facebook.com/linguagemdemaquina.com.br)
