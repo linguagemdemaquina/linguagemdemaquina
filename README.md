@@ -10,6 +10,8 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 ***Marcelo Tosta de Santana***
 <br>
 *Proprietário & FullStack Developer*
+<br>
+*Email : marcelotosta@linguagemdemaquina.com.br*
 
 ## Nossa Atividade
 
