@@ -15,7 +15,10 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 
 Trabalhamos com as mais diversas linguagens, a exemplo : 
 
-<img id="html_5" src="https://www.linguagemdemaquina.com.br/icones/icone_html5.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;">  | Second Header
+<img id="html_5" src="https://www.linguagemdemaquina.com.br/icones/icone_html5.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;">  | <img id="html_5" src="https://www.linguagemdemaquina.com.br/icones/icone_html5.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;">
+
+
+
 ------------- | -------------
 HTML5 | Content Cell
 
