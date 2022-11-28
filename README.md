@@ -3,7 +3,9 @@
 
 Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para internet, aplicativos web & mobile, projetos nas áreas de design e marketing digital para redes sociais.
 <br>
+<br>
 Estamos inseridos neste nicho desde 2016, quando inicialmente começamos a atuar na cidade de Fortaleza (CE). 
+<br>
 <br>
 Atualmente estamos atuando em 4 estados distintos (Bahia, Ceará, Rio Grande do Norte e Paraíba), com trabalhos sob a forma de parcerias regionais que buscam atender as demandas deste filão do mercado.
 <br>
