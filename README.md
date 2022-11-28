@@ -13,7 +13,7 @@ Atualmente estamos atuando em 4 estados distintos (Bahia, Ceará, Rio Grande do 
 Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborativo, aprimorando conceitos e experiências, envolvendo e integrando os demais profissionais que atuam na mesma área que a nossa.
 <br>
 <br>
-*Esperamos que gostem, e que possamos cresecer juntos.*
+*Esperamos que gostem e que possamos cresecer juntos.*
 <br>
 <br>
 
@@ -30,7 +30,6 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 *Email : marcelotosta@linguagemdemaquina.com.br*
 <br>
 <br>
-[<img alt="linkedin" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_linkedin.png" />](https://www.linkedin.com/in/marcelotostadesantana/ "Linkedin")
 
 ## Nossa Atividade
 
