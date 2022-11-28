@@ -5,6 +5,9 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 <br>
 <br>
 Nossa participação no GitHub é propiciar um espaço colaborativo com objetivo de aprimorar conceitos e experiências com demais profissionais que atuam na mesma área que a nossa.
+<br>
+<br>
+[<img alt="logomarca" width="128px" height="128px" src="https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png" />](https://www.linguagemdemaquina.com.br/)
 
 ## Staff
 
@@ -38,6 +41,6 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 ## Encontre-nos nas redes sociais
 [<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/)[<img alt="facebook" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" />](https://www.facebook.com/linguagemdemaquina.com.br/)
 
-## Logomarca
-[<img alt="logomarca" width="128px" height="128px" src="https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png" />](https://www.linguagemdemaquina.com.br/)
+
+
 
