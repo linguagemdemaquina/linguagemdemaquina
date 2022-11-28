@@ -8,7 +8,7 @@ $mysqli = new mysqli("localhost", "usuario","senha","nomedobancodedados");
 
         // VERIFICANDO A CONEXÃO
         if (!$mysqli) {
-            die("fALHA DE CONEXÃO : " . mysqli_connect_error());
+            die("FALHA DE CONEXÃO : " . mysqli_connect_error());
             }
             "CONEXÃO REALIZADA COM SUCESSO !";
 
