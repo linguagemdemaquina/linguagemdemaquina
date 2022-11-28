@@ -47,6 +47,8 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 |:-----:|:-----:|:-----:|:-----:|
 | VS CODE | ANDROID | FLUTTER | MYSQL |
 
+<br>
+<br>
 
 ## Encontre-nos nas redes sociais
 [<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/ "Instagram")[<img alt="facebook" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" />](https://www.facebook.com/linguagemdemaquina.com.br/ "Facebook")
