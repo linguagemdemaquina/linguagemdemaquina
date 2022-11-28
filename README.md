@@ -39,7 +39,7 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 
 
 ## Encontre-nos nas redes sociais
-[<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/)[<img alt="facebook" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" />](https://www.facebook.com/linguagemdemaquina.com.br/)
+![<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/)[<img alt="facebook" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" />](https://www.facebook.com/linguagemdemaquina.com.br/)
 
 
 
