@@ -33,7 +33,7 @@ Trabalhamos com as mais diversas linguagens, a exemplo :
 
 Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recursos : 
 
-| ![Visual Studio Code](https://www.linguagemdemaquina.com.br/icones/icone_visual_studio.png "Visual Studio Code") | <img id="android_studio" src="https://www.linguagemdemaquina.com.br/icones/icone_android_studio.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="flutter" src="https://www.linguagemdemaquina.com.br/icones/icone_flutter.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="my_sql" src="https://www.linguagemdemaquina.com.br/icones/icone_my_sql.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> |
+| <img id="visual_studio" src="https://www.linguagemdemaquina.com.br/icones/icone_visual_studio.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="android_studio" src="https://www.linguagemdemaquina.com.br/icones/icone_android_studio.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="flutter" src="https://www.linguagemdemaquina.com.br/icones/icone_flutter.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="my_sql" src="https://www.linguagemdemaquina.com.br/icones/icone_my_sql.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> |
 |:-----:|:-----:|:-----:|:-----:|
 | VS CODE | ANDROID | FLUTTER | MYSQL |
 
