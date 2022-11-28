@@ -2,6 +2,9 @@
 # Linguagem de Máquina
 
 Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para internet, aplicativos web & mobile, projetos nas áreas de design e marketing digital para redes sociais.
+<br>
+<br>
+Nossa participação no GitHub é propiciar um espaço colaborativo com objetivo de aprimorar conceitos e experiências com demais profissionais que atuam na mesma área que a nossa.
 
 ## Staff
 
