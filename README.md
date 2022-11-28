@@ -39,7 +39,7 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 <a href="https://www.instagram.com/linguagemdemaquina"><img id="instagram" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;"></a><a href="https://www.facebook.com/linguagemdemaquina.com.br"><img id="facebook" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;"></a>
 <br>
 <br>
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+[<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina)
 
 ## Logomarca
 <img id="logomarca" src="https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;">
