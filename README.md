@@ -10,7 +10,10 @@ Estamos inseridos neste nicho desde 2016, quando inicialmente começamos a atuar
 Atualmente estamos atuando em 4 estados distintos (Bahia, Ceará, Rio Grande do Norte e Paraíba), com trabalhos sob a forma de parcerias regionais que buscam atender as demandas deste filão do mercado.
 <br>
 <br>
-Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborativo, aprimorando conceitos e experiências, envolvendo demais profissionais que atuam na mesma área que a nossa. Esperamos que gostem, e que possamos cresecer juntos.
+Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborativo, aprimorando conceitos e experiências, envolvendo e integrando os demais profissionais que atuam na mesma área que a nossa.
+<br>
+<br>
+*Esperamos que gostem, e que possamos cresecer juntos.*
 <br>
 <br>
 
