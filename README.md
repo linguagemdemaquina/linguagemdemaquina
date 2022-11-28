@@ -39,5 +39,5 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 [<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/)[<img alt="facebook" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" />](https://www.facebook.com/linguagemdemaquina.com.br/)
 
 ## Logomarca
-<img id="logomarca" src="https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;">
+[<img alt="logomarca" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png" />](https://www.linguagemdemaquina.com.br/)
 
