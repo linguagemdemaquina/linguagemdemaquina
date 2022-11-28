@@ -20,6 +20,7 @@ Nossa participação no GitHub é para propiciar um espaço colaborativo com obj
 <br>
 *Email : marcelotosta@linguagemdemaquina.com.br*
 <br>
+<br>
 [<img alt="linkedin" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_linkedin.png" />](https://www.linkedin.com/in/marcelotostadesantana/ "Linkedin")
 
 ## Nossa Atividade
