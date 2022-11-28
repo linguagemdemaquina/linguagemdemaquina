@@ -35,10 +35,9 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 
 ## Encontre-nos em nossas redes
 
-:globe_with_meridians:
 [Website](https://www.linguagemdemaquina.com.br)
 <br>
-<a href="https://www.instagram.com/linguagemdemaquina"><img id="instagram" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" style="display:inline-block; v-align:bottom; width:20px; height:20px;"></a>
+<a href="https://www.instagram.com/linguagemdemaquina"><img id="instagram" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" style="display:inline-block; v-align:bottom; width:24px; height:24px;"></a>
 [Instagram](https://www.instagram.com/linguagemdemaquina)
 <br>
 [Facebook](https://www.facebook.com/linguagemdemaquina.com.br)
