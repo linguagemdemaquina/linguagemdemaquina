@@ -4,10 +4,9 @@
 Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para internet, aplicativos web & mobile, projetos nas áreas de design e marketing digital para redes sociais.
 <br>
 <br>
-Nossa participação no GitHub é propiciar um espaço colaborativo com objetivo de aprimorar conceitos e experiências com demais profissionais que atuam na mesma área que a nossa.
+Nossa participação no GitHub é para propiciar um espaço colaborativo com objetivo de aprimorar conceitos e experiências envolvendo demais profissionais que atuam na mesma área que a nossa.
 <br>
 <br>
-[<img alt="logomarca" width="128px" height="128px" src="https://www.linguagemdemaquina.com.br/logomarcas/logomarca_pequena_transparente.png" />](https://www.linguagemdemaquina.com.br/)
 
 ## Staff
 
