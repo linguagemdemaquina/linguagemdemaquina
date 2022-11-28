@@ -37,7 +37,7 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 
 [Website](https://www.linguagemdemaquina.com.br)
 <br>
-<img id="instagram" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/linguagemdemaquina.com.br"><img id="facebook" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;"></a>
+<img id="instagram" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;"></a><a href="https://www.facebook.com/linguagemdemaquina.com.br"><img id="facebook" src="https://www.linguagemdemaquina.com.br/icones/icone_facebook.png" style="display:inline-block; v-align:bottom; margin:3px; width:48px; height:48px;"></a>
 
 <br>
 <br>
