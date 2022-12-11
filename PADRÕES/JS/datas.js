@@ -1,28 +1,42 @@
 // 1 - OBTENDO DATA COMPLETA ATUAL
 
 const dataAtual = new Date();
+    
+    // EXTRAÇÃO DATA COMPLETA 
+    console.log("Data Completa : " + dataAtual);
+    // EXTRAÇÃO DA DATA SIMPLIFICADA - LOCAL
+    console.log("Data Simplificada : "+ dataAtual.toLocaleString());
 
-// 2 - OBTENDO NOME DO DIA DA SEMANA ATUAL 
+// 1.1 - OBTENDO NOME DO DIA DA SEMANA ATUAL 
 
-const diaAtual = new Date ();
-const numeroDodiaatual = diaAtual.getDay();
+const numeroDoDiaAtual = dataAtual.getDay();
     // ARRAY COM NOMES DOS DIAS DA SEMANA
-    var arrayDiadasemana = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
+    var arrayDiaDaSemana = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'];
     // VINCULA NOME DO DIA NO ARRAY
-    var nomeDodia = arrayDiadasemana[numeroDodiaatual];
+    var nomeDoDia = arrayDiaDaSemana[numeroDoDiaAtual];
+
+    // EXTRAÇÃO DO NOME DO DIA ATRAVÉS DO ARRAY 
+    console.log("Dia da Semana : " + nomeDoDia);
 
 
-// 3 - OBTENDO NOME DO MÊS ATUAL
+// 1.2 - OBTENDO NOME DO MÊS ATUAL
 
-const mesAtual = new Date ();
-const numeroDomesatual = mesAtual.getMonth();
+const numeroDoMesAtual = dataAtual.getMonth();
     // ARRAY COM NOMES DOS MESES
-    var arrayMesesdoano = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho','Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
+    var arrayMesesDoAno = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho','Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
     // VINCULA NOME DO DIA NO ARRAY
-    var nomeDomes = arrayMesesdoano[numeroDomesatual];
+    var nomeDoMes = arrayMesesDoAno[numeroDoMesAtual];
+   
+    // EXTRAÇÃO DO MÊS NUMÉRICO
+    console.log("Mês numérico : " + (numeroDoMesAtual + 1));
+
+    // EXTRAÇÃO DO NOME DO MÊS ATRAVÉS DO ARRAY 
+    console.log("Mês : " + nomeDoMes);
 
 
-// 4 - EXTRAINDO O ANO ATUAL COM 4 DÍGITOS
+// 1.3 - EXTRAINDO O ANO ATUAL COM 4 DÍGITOS
 
-const anoAtual = new Date ();
-const valorDoanoatual = anoAtual.getFullYear();
+const valorDoAnoAtual = dataAtual.getFullYear();
+
+    // EXTRAÇÃO DO VALOR DO ANO ATUAL COM 4 DÍGITOS 
+    console.log("Ano com 4 dígitos : " + valorDoAnoAtual);
