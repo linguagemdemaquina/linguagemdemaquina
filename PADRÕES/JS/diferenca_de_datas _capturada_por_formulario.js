@@ -1,5 +1,6 @@
 function calculaDiferencaDeHoras(){
 
+    var func = document.getElementById("funcionario").value;
     var d1 = document.getElementById("data_hora_entrada").value;
     var d2 = document.getElementById("data_hora_saida").value;
 
@@ -20,7 +21,14 @@ var diferenca_em_minutos = Math.round((data_2 - data_1) / divisao_por_minuto);
 var diferenca_em_horas = Math.round((data_2 - data_1) / divisao_por_hora);
 var diferenca_em_dias = Math.round((data_2 - data_1) / divisao_por_dia);
 
+console.log("Matrícula : " + func);
 console.log("Diferença em minutos : " + diferenca_em_minutos);
 console.log("Diferença em horas : " + diferenca_em_horas);
 console.log("Diferença em dias : " + diferenca_em_dias);
+
+let lancamento = '{ "matricula" : "' + func + '" , "horas_a_justificar" : "' + diferenca_em_minutos +'" }';
+const obj = JSON.parse(lancamento);
+
+console.log(obj);
+
 }
