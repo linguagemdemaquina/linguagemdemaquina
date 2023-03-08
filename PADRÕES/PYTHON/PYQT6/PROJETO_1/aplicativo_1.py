@@ -1,23 +1,15 @@
 import sys
 
-import sys
-
-from PyQt6.QtCore import QSize, Qt
-from PyQt6.QtWidgets import QApplication, QMainWindow, QPushButton
-
-# Sub-Classe que define padrões da tela principal
-class home(QMainWindow):
-    def __init__(self):
-        super().__init__()
-
-        self.setWindowTitle("Aplicativo 1 Teste - Python")
-        self.setStyleSheet('background-color: #666666')
-        self.resize(300,600)
-  
+from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QLabel
 
 aplicativo = QApplication(sys.argv)
 
-janelaInicial = home()
-janelaInicial.show()
+home = QWidget()
+home.resize(300,600)
+home.setWindowTitle("Aplicativo 1 - Python")
+home.setStyleSheet('background-color: #666666')
+home.show()
+
+
 
 aplicativo.exec()
