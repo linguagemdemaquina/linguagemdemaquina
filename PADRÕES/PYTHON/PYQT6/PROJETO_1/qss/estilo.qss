@@ -31,13 +31,15 @@ QLineEdit#email, QLineEdit#senha{
   padding:8px;
 }
 QPushButton#botaoLogin{
-  background-color:#ff46443e;
+  background-color:#ffeeb815;
   width:100px;
   border-radius:8px;
   font-size: 12px;
   font-weight: bold;
-  color:#d9d4ca;
+  color:#292826;
   padding:5px;
   margin-top:60px;
+  border-style: solid;
+  border-width: 1.5px 1.5px 1.5px 1.5px;
 }
 

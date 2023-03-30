@@ -24,7 +24,7 @@ from PyQt6.QtGui import QIcon, QPixmap
 class MainWindow(QWidget):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.setWindowTitle('SISTEMA DE GESTÃO')
+        self.setWindowTitle('SISTEMA DE GESTÃO INTEGRADA')
         self.setWindowIcon(QIcon(caminho_logomarca))
         self.setFixedWidth(300)
         self.setFixedHeight(600)
@@ -39,7 +39,7 @@ class MainWindow(QWidget):
         imagemLogomarca.setPixmap(logomarcaGrande)
         imagemLogomarca.setObjectName('imagemLogomarcaHorizontal')
 
-        tituloDeSecao = QLabel('LOGIN DE SISTEMA')
+        tituloDeSecao = QLabel('ACESSO AO SISTEMA')
         tituloDeSecao.setObjectName('tituloDeSecao')
         tituloDeSecao.setAlignment(Qt.AlignmentFlag.AlignHCenter)
 
