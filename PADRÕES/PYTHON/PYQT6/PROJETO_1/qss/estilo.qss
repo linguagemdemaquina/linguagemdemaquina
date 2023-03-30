@@ -1,8 +1,8 @@
 QWidget {
-  background-color: #ff726e64;
+  background-color: #48463d;
 }
 QLabel#imagemLogomarcaHorizontal {
-  background-color:#ff46443e;
+  background-color:#3c392e;
   margin-top:10px;
   margin-bottom:2px;
   max-height : 140px;
