@@ -11,16 +11,16 @@ QLabel#imagemLogomarcaHorizontal {
 QLabel#tituloDeSecao {
   background-color: #ff8f8b7f;
   color: #25200f;
-  max-height:20px;
+  max-height:60px;
   min-width:270px;
   font-size: 12px;
   font-weight: bold;
   border-radius : 8px;
   padding: 5px;
-  margin-bottom:30px;
+  margin-bottom:60px;
 }
 QLabel#tituloEmail, QLabel#tituloSenha{
-  color: #25200f;
+  color: #ffee9415;
   font-size: 12px;
   font-weight: bold;
   max-height:20px;
@@ -31,7 +31,7 @@ QLineEdit#email, QLineEdit#senha{
   padding:8px;
 }
 QPushButton#botaoLogin{
-  background-color:#ffeeb815;
+  background-color:#ffee9415;
   width:100px;
   border-radius:8px;
   font-size: 12px;
