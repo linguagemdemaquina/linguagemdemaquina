@@ -53,3 +53,7 @@ QPushButton#botaoInstagram{
   border-style: solid;
   border-width: 1.4px 1.4px 1.4px 1.4px;
 }
+QPushButton#botaoInstagram:hover{
+  background-color:#292722;
+  color:#ffee9415;
+}
