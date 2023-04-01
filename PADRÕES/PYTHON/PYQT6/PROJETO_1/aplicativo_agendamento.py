@@ -38,14 +38,16 @@ class MainWindow(QWidget):
         logomarcaGrande = QPixmap(caminho_logomarca_horizontal)
         imagemLogomarca.setPixmap(logomarcaGrande)
         imagemLogomarca.setObjectName('imagemLogomarcaHorizontal')
+        imagemLogomarca.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
-        tituloDeSecao = QLabel('ACESSO AO SISTEMA')
+        tituloDeSecao = QLabel('ERP - SISTEMA DE GESTÃO INTEGRADA')
         tituloDeSecao.setObjectName('tituloDeSecao')
-        tituloDeSecao.setAlignment(Qt.AlignmentFlag.AlignHCenter)
+        tituloDeSecao.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
         
         tituloEmail = QLabel ('EMAIL')
         tituloEmail.setObjectName('tituloEmail')
+        tituloEmail.setAlignment(Qt.AlignmentFlag.AlignCenter)
         
         
         email = QLineEdit(self)
@@ -55,6 +57,7 @@ class MainWindow(QWidget):
 
         tituloSenha = QLabel('SENHA')
         tituloSenha.setObjectName('tituloSenha')
+        tituloSenha.setAlignment(Qt.AlignmentFlag.AlignHCenter)
 
         senha = QLineEdit(self)
         senha.setEchoMode(QLineEdit.EchoMode.Password)
@@ -63,14 +66,15 @@ class MainWindow(QWidget):
         
         botao_login = QPushButton('LOGIN')
         botao_login.setObjectName('botaoLogin')
+        
               
         layout.addWidget(imagemLogomarca)
-        layout.addWidget(tituloDeSecao, alignment=Qt.AlignmentFlag.AlignHCenter)        
-        layout.addWidget(tituloEmail, alignment=Qt.AlignmentFlag.AlignHCenter)
+        layout.addWidget(tituloDeSecao)        
+        layout.addWidget(tituloEmail)
         layout.addWidget(email)
-        layout.addWidget(tituloSenha, alignment=Qt.AlignmentFlag.AlignHCenter)
+        layout.addWidget(tituloSenha)
         layout.addWidget(senha)
-        layout.addWidget(botao_login,alignment=Qt.AlignmentFlag.AlignHCenter)
+        layout.addWidget(botao_login, alignment=Qt.AlignmentFlag.AlignHCenter)
 
         self.show()
 
