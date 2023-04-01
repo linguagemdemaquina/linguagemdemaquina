@@ -14,11 +14,13 @@ caminho_relativo = os.getcwd()
 caminho_relativo = caminho_relativo + '\PADRÕES\PYTHON\PYQT6\PROJETO_1'
 caminho_logomarca = caminho_relativo + '\imagens\logomarca.png'
 caminho_logomarca_horizontal = caminho_relativo + '\imagens\logomarca_horizontal.png' 
+caminho_imagem_instagram = caminho_relativo + '\imagens\instagram.png'
+
 caminho_qss = caminho_relativo +  '\qss\estilo.qss'
 
 from PyQt6.QtWidgets import QApplication,  QWidget, QLabel, QLineEdit, QPushButton,  QVBoxLayout
 from PyQt6.QtCore import Qt
-from PyQt6.QtGui import QIcon, QPixmap
+from PyQt6.QtGui import QIcon, QPixmap, QCursor
 
 
 class MainWindow(QWidget):
@@ -27,10 +29,10 @@ class MainWindow(QWidget):
         self.setWindowTitle('SISTEMA DE GESTÃO INTEGRADA')
         self.setWindowIcon(QIcon(caminho_logomarca))
         self.setFixedWidth(300)
-        self.setFixedHeight(600)
+        self.setFixedHeight(500)
         
         layout = QVBoxLayout()
-        layout.setContentsMargins(10,0,10,220)
+        layout.setContentsMargins(10,10,10,10)
         layout.setObjectName('layout')
         self.setLayout(layout)
         
@@ -39,6 +41,7 @@ class MainWindow(QWidget):
         imagemLogomarca.setPixmap(logomarcaGrande)
         imagemLogomarca.setObjectName('imagemLogomarcaHorizontal')
         imagemLogomarca.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
 
         tituloDeSecao = QLabel('ERP - SISTEMA DE GESTÃO INTEGRADA')
         tituloDeSecao.setObjectName('tituloDeSecao')
@@ -66,7 +69,14 @@ class MainWindow(QWidget):
         
         botao_login = QPushButton('LOGIN')
         botao_login.setObjectName('botaoLogin')
-        
+        botao_login.setCursor(QCursor(Qt.CursorShape.PointingHandCursor))
+
+        botaoInstagram = QPushButton('INSTAGRAM')
+        instagram = QIcon(QPixmap(caminho_imagem_instagram))
+        botaoInstagram.setIcon(instagram)
+        botaoInstagram.setObjectName('botaoInstagram')
+        botaoInstagram.setCursor(QCursor(Qt.CursorShape.PointingHandCursor))
+                
               
         layout.addWidget(imagemLogomarca)
         layout.addWidget(tituloDeSecao)        
@@ -75,6 +85,7 @@ class MainWindow(QWidget):
         layout.addWidget(tituloSenha)
         layout.addWidget(senha)
         layout.addWidget(botao_login, alignment=Qt.AlignmentFlag.AlignHCenter)
+        layout.addWidget(botaoInstagram, alignment=Qt.AlignmentFlag.AlignHCenter)
 
         self.show()
 
