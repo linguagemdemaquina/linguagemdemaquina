@@ -76,7 +76,9 @@ class MainWindow(QWidget):
         botaoInstagram.setIcon(instagram)
         botaoInstagram.setObjectName('botaoInstagram')
         botaoInstagram.setCursor(QCursor(Qt.CursorShape.PointingHandCursor))
-                
+
+ 
+
               
         layout.addWidget(imagemLogomarca)
         layout.addWidget(tituloDeSecao)        
