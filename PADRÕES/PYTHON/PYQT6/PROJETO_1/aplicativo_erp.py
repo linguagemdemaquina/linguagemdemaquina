@@ -27,6 +27,7 @@ from PyQt6.QtGui import QIcon, QPixmap, QCursor
 class TeladeLogin(QWidget):
     def __init__(self, parent=None):
         super(TeladeLogin,self).__init__(parent)
+
         self.setWindowTitle('ERP - TELA DE LOGIN')
         self.setWindowIcon(QIcon(caminho_logomarca))
         self.setFixedWidth(300)
@@ -50,6 +51,9 @@ class TeladeLogin(QWidget):
 class TelaPrincipal(QWidget):
     def __init__(self, parent=None):
         super(TelaPrincipal,self).__init__(parent)
+
+        self.janelaAuxiliar = None
+     
         self.setWindowTitle('ERP - SISTEMA DE GESTÃO INTEGRADA')
         self.setWindowIcon(QIcon(caminho_logomarca))
         self.setFixedWidth(300)
@@ -118,6 +122,19 @@ class TelaPrincipal(QWidget):
             if quantidade == 1 :
                 print("Usuário logado")
                 print (resultado)
+                
+                # OCULTA A TELA PRINCIPAL
+                self.hide()
+
+                # ABRE A TELA AUXILIAR - LOGADA
+                if self.janelaAuxiliar is None:
+                    
+                    self.janelaAuxiliar = TeladeLogin()
+                    self.janelaAuxiliar.show()
+                else:
+                    self.janelaAuxiliar.close()
+                    self.janelaAuxiliar = None
+                
             else:
                 print("Usuário não logado")
             
