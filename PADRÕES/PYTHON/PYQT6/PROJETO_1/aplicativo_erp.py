@@ -16,6 +16,7 @@ caminho_relativo = caminho_relativo + '\PADRÕES\PYTHON\PYQT6\PROJETO_1'
 caminho_logomarca = caminho_relativo + '\imagens\logomarca.png'
 caminho_logomarca_horizontal = caminho_relativo + '\imagens\logomarca_horizontal.png' 
 caminho_imagem_instagram = caminho_relativo + '\imagens\instagram.png'
+caminho_imagem_profile = caminho_relativo + '\imagens\profile.png'
 
 caminho_qss = caminho_relativo +  '\qss\estilo.qss'
 
@@ -44,8 +45,21 @@ class TeladeLogin(QWidget):
         imagemLogomarca.setObjectName('imagemLogomarcaHorizontal')
         imagemLogomarca.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
+        tituloDeSecao = QLabel('ERP - TELA DE LOGIN')
+        tituloDeSecao.setObjectName('tituloDeSecao')
+        tituloDeSecao.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
+        imagemProfile = QLabel()
+        profile = QPixmap(caminho_imagem_profile)
+        imagemProfile.setPixmap(profile)
+        imagemProfile.setObjectName('imagemProfile')
+        imagemProfile.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
+       
         # ESTRUTURAÇÃO DO LAYOUT - TELA DE LOGIN
         layout_login.addWidget(imagemLogomarca)
+        layout_login.addWidget(tituloDeSecao)
+        layout_login.addWidget(imagemProfile)
 
 
 class TelaPrincipal(QWidget):
