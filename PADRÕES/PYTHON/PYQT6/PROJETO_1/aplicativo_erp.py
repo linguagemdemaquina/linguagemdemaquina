@@ -20,7 +20,7 @@ caminho_imagem_profile = caminho_relativo + '\imagens\profile.png'
 
 caminho_qss = caminho_relativo +  '\qss\estilo.qss'
 
-from PyQt6.QtWidgets import QApplication,  QWidget, QLabel, QLineEdit, QPushButton,  QVBoxLayout
+from PyQt6.QtWidgets import QApplication,  QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout, QMessageBox
 from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QIcon, QPixmap, QCursor
 
@@ -54,12 +54,19 @@ class TeladeLogin(QWidget):
         imagemProfile.setPixmap(profile)
         imagemProfile.setObjectName('imagemProfile')
         imagemProfile.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        
+        nomeDeUsuario = QLineEdit()
+        nomeDeUsuario.setObjectName('nomeDeUsuario')
+        nomeDeUsuario.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
        
         # ESTRUTURAÇÃO DO LAYOUT - TELA DE LOGIN
         layout_login.addWidget(imagemLogomarca)
         layout_login.addWidget(tituloDeSecao)
         layout_login.addWidget(imagemProfile)
+        layout_login.addWidget(nomeDeUsuario)
+
+        
 
 
 class TelaPrincipal(QWidget):
@@ -128,35 +135,56 @@ class TelaPrincipal(QWidget):
             sql = "SELECT * FROM usuarios WHERE email= '"+ valorEmail +"' AND senha= '" + valorSenha + "'"
             
             busca.execute(sql)
-            resultado = busca.fetchall()
+            resultado = list(busca.fetchall())
+            
             quantidade = busca.rowcount
 
             # VALIDA O USUÁRIO        
             print(quantidade)
+
             if quantidade == 1 :
                 print("Usuário logado")
-                print (resultado)
+                #CAPTURA DADOS DO BANCO PARA USO
+                for row in resultado :
+                    nomeBD = row[1]
+                    cpfBD = row[2]
+                    emailBD = row[3]
+
+                    print("Nome : " + nomeBD + " - CPF : " + cpfBD + " - EMAIL : " + emailBD)
                 
-                # OCULTA A TELA PRINCIPAL
+                # OCULTA A TELA PRINCIPAL - ENTRADA DE LOGIN E SENHA
                 self.hide()
 
                 # ABRE A TELA AUXILIAR - LOGADA
                 if self.janelaAuxiliar is None:
-                    
                     self.janelaAuxiliar = TeladeLogin()
                     self.janelaAuxiliar.show()
                 else:
                     self.janelaAuxiliar.close()
                     self.janelaAuxiliar = None
-                
             else:
+                # ALERTA DE ERRO - USUÁRIO NÃO LOGADO / NÃO ENCONTRADO
                 print("Usuário não logado")
-            
+
+                mensagemDeErro = QMessageBox(self) 
+                mensagemDeErro.setObjectName('mensagemDeErro') 
+                mensagemDeErro.setFixedWidth(100)
+                mensagemDeErro.setFixedHeight(100)
+                mensagemDeErro.setWindowIcon(QIcon(caminho_logomarca))
+                mensagemDeErro.setWindowTitle('ERP - SISTEMA DE GESTÃO INTEGRADA')
+                mensagemDeErro.setStyleSheet('QLabel{ color: #b6ac95}')        
+                mensagemDeErro.setText('ERRO : LOGIN NÃO EFETUADO !')
+                mensagemDeErro.setStandardButtons(QMessageBox.StandardButton.Ok)
+
+                mensagemDeErro.exec()
+
+ 
 
         botao_login = QPushButton('LOGIN')
         botao_login.setObjectName('botaoLogin')
         botao_login.setCursor(QCursor(Qt.CursorShape.PointingHandCursor))
         botao_login.clicked.connect(efetuaLogin)
+        
 
         botaoInstagram = QPushButton('INSTAGRAM')
         instagram = QIcon(QPixmap(caminho_imagem_instagram))

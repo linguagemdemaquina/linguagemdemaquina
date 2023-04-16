@@ -21,7 +21,7 @@ QLabel#tituloEmail, QLabel#tituloSenha{
   font-size: 12px;
   font-weight: bold;
 }
-QLineEdit#email, QLineEdit#senha{
+QLineEdit#email, QLineEdit#senha {
   background-color:#d9d4ca;
   border-radius:8px;
   padding:8px;
@@ -42,6 +42,14 @@ QPushButton#botaoLogin:hover{
   background-color:#3c392e;
   color:#b6ac95;
 }
+QMessageBox#mensagemDeErro{
+  background-color:#48463d;
+  color:#FFFFFF;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius:8px;
+  padding:8px;
+}
 QPushButton#botaoInstagram{
   margin-top:50px;
   min-width:100px;
@@ -56,4 +64,17 @@ QPushButton#botaoInstagram{
 QPushButton#botaoInstagram:hover{
   background-color:#292722;
   color:#ffee9415;
+}
+QLabel#imagemProfile{
+  max-height:50px;
+}
+QLineEdit#nomeDeUsuario {
+  background-color:#3c392e;
+  color:#d9d4ca;
+  font-size: 11px;
+  font-weight: bold;
+  border-radius: 8px;
+  padding:5px;
+  max-height:15px;
+  margin-bottom:200px;
 }
