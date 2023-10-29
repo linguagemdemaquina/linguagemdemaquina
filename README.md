@@ -37,7 +37,7 @@ Trabalhamos com as mais diversas linguagens, a exemplo :
 
 | <img id="html_5" src="https://www.linguagemdemaquina.com.br/icones/icone_html5.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="css3" src="https://www.linguagemdemaquina.com.br/icones/icone_css3.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="php" src="https://www.linguagemdemaquina.com.br/icones/icone_php_7.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="js" src="https://www.linguagemdemaquina.com.br/icones/icone_js.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="python" src="https://www.linguagemdemaquina.com.br/icones/icone_python.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> |
 |:-----:|:------:|:------:|:------:|:------:|
-| HTML5 |  CSS3  |  PHP7  |  JS  | PYTHON |
+| HTML5 |  CSS3  |  PHP7  |  JSCRIPT  | PYTHON |
 
 <br>
 
