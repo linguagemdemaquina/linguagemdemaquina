@@ -38,7 +38,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 Trabalhamos com as mais diversas linguagens, a exemplo : 
 
-||||||
+|------|------|------|------|------|
 |:-------:|:--------:|:--------:|:--------:|:--------:|
 | HTML |  CSS  |  PHP  |  JS  | PYTHON |
 | <img id="html_5" src="https://www.linguagemdemaquina.com.br/portifolio/icones/html_5.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="css3" src="https://www.linguagemdemaquina.com.br/portifolio/icones/css.png" > | <img id="php" src="https://www.linguagemdemaquina.com.br/portifolio/icones/php_7.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="js"  src="https://www.linguagemdemaquina.com.br/portifolio/icones/javascript.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="python" src="https://www.linguagemdemaquina.com.br/portifolio/icones/py.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> |
