@@ -30,6 +30,9 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 *Email : marcelotosta@linguagemdemaquina.com.br*
 <br>
 <br>
+<img alt="avatar" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/portifolio/landingpage_paralax/imagens_paralax/avatar.png" />
+<br>
+<br>
 
 ## Nossa Atividade
 
@@ -51,8 +54,7 @@ Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recurso
 <br>
 
 ## Encontre-nos nas redes sociais
-[<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/ "Instagram")<img alt="avatar" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/portifolio/landingpage_paralax/imagens_paralax/avatar.png" />
-
+[<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/ "Instagram")
 
 
 
