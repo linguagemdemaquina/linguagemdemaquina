@@ -30,7 +30,9 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 *Email : marcelotosta@linguagemdemaquina.com.br*
 <br>
 <br>
-<img alt="avatar" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/portifolio/landingpage_paralax/imagens_paralax/avatar.png" />
+<kbd>
+  <img alt="avatar" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/landingpage_paralax/imagens_paralax/avatar.png"/>
+</kbd>
 <br>
 <br>
 
@@ -41,7 +43,7 @@ Trabalhamos com as mais diversas linguagens, a exemplo :
 |&nbsp;HTML&nbsp;|&nbsp;CSS&nbsp;&nbsp;|&nbsp;PHP&nbsp;&nbsp;|&nbsp;&nbsp;JS&nbsp;&nbsp;|PYTHON|
 |:-------:|:--------:|:--------:|:--------:|:--------:|
 ||||||
-| <img id="html_5" src="https://www.linguagemdemaquina.com.br/portifolio/icones/html_5.png"> | <img id="css3" src="https://www.linguagemdemaquina.com.br/portifolio/icones/css.png"> | <img id="php" src="https://www.linguagemdemaquina.com.br/portifolio/icones/php_7.png"> | <img id="js"  src="https://www.linguagemdemaquina.com.br/portifolio/icones/javascript.png"> | <img id="python" src="https://www.linguagemdemaquina.com.br/portifolio/icones/py.png"> |
+| <kbd><img id="html_5" src="https://www.linguagemdemaquina.com.br/portifolio/icones/html_5.png"></kbd> | <kbd><img id="css3" src="https://www.linguagemdemaquina.com.br/portifolio/icones/css.png"></kbd> | <img id="php" src="https://www.linguagemdemaquina.com.br/portifolio/icones/php_7.png"> | <img id="js"  src="https://www.linguagemdemaquina.com.br/portifolio/icones/javascript.png"> | <img id="python" src="https://www.linguagemdemaquina.com.br/portifolio/icones/py.png"> |
 
 <br>
 
