@@ -17,7 +17,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 
-## Staff
+## Equipe ##
 
 ![AVATAR](https://www.linguagemdemaquina.com.br/avatar/avatar_transparente.png "Marcelo Tosta - FullStack Developer")
 <br>
@@ -30,20 +30,28 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 *Email : marcelotosta@linguagemdemaquina.com.br*
 <br>
 <br>
+*Qualificação :*
+<br>
+*- Certificação em Linguagem de Programação - Front End - Estácio de Sá*
+<br>
+<br>
 <kbd>
   <img alt="avatar" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/landingpage_paralax/imagens_paralax/avatar.png"/>
 </kbd>
 <br>
 <br>
 
-## Nossa Atividade
+## Atuação ##
 
-### FrontEnd Dev ###
+#### Front End Developer ####
 
 |HTML5|CSS3|JS|
 |:-------:|:--------:|:--------:|
 |<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconehtml5.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconecss3.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconejs.png"></kbd>| 
 <br>
+
+
+
 
 Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recursos : 
 
