@@ -38,12 +38,12 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 ## Nossa Atividade
 
-*FrontEnd Dev 
+### FrontEnd Dev ###
 
 |HTML5|CSS3|JS|
 |:-------:|:--------:|:--------:|
 ||||||
-|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/html5.png"></kbd>| <kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/css3.png"></kbd> | <img id="php" src="https://www.linguagemdemaquina.com.br/portifolio/icones/php_7.png"> | <img id="js"  src="https://www.linguagemdemaquina.com.br/portifolio/icones/javascript.png"> | <img id="python" src="https://www.linguagemdemaquina.com.br/portifolio/icones/py.png"> |
+|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/html5.svg"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/css3.svg"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/js.svg"></kbd>| 
 
 <br>
 
