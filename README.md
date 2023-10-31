@@ -64,11 +64,11 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 |:-------:|:--------:|
 |<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icmysql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_nosql.png"></kbd>|
 
-Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recursos : 
+#### IDE'S ####
 
-| <img id="visual_studio" src="https://www.linguagemdemaquina.com.br/icones/icone_visual_studio.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="android_studio" src="https://www.linguagemdemaquina.com.br/icones/icone_android_studio.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="flutter" src="https://www.linguagemdemaquina.com.br/icones/icone_flutter.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> | <img id="my_sql" src="https://www.linguagemdemaquina.com.br/icones/icone_my_sql.png" style="display:inline-block; v-align:bottom; width:48px; height:48px;"> |
-|:-------:|:--------:|:--------:|:--------:|
-| VS CODE | ANDROID | FLUTTER | MYSQL |
+|VSCODE|ANDROID|FLUTTER|
+|:-------:|:--------:|:--------:|
+|<kbd><img id="vscode" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_vscode.png"></kbd>|<kbd><img id="android" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_android.png"></kbd>|<kbd><img id="flutter" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_flutter.png"></kbd>|
 
 <br>
 <br>
