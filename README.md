@@ -62,7 +62,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |MYSQL|NOSQL|
 |:-------:|:--------:|
-|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconemysql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconenosql.png"></kbd>|
+|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconemy-sql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconenosql.png"></kbd>|
 
 #### IDE'S ####
 
