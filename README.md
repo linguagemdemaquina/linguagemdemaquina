@@ -7,7 +7,7 @@ Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para 
 Estamos inseridos neste nicho desde 2016, quando inicialmente começamos a atuar na cidade de Fortaleza (CE). 
 <br>
 <br>
-Atualmente estamos atuando em 4 estados distintos (Bahia, Ceará, Rio Grande do Norte e Paraíba), com trabalhos sob a forma de parcerias regionais que buscam atender as demandas deste nicho do mercado.
+Atualmente estamos ampliando nossa atuação em 4 estados distintos (Bahia, Ceará, Rio Grande do Norte e Paraíba), com trabalhos sob a forma de parcerias regionais que buscam atender as demandas deste nicho do mercado.
 <br>
 <br>
 Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborativo, aprimorando conceitos e experiências, envolvendo e integrando os demais profissionais que atuam na mesma área que a nossa.
@@ -32,7 +32,10 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 *Qualificação :*
 <br>
-*- Certificação em Linguagem de Programação - Front End - Estácio de Sá*
+*- Certificação - Front End - Universidade Estácio de Sá*
+<br>
+*- Certificação - Back End - Universidade Estácio de Sá*
+<br>
 <br>
 <br>
 <kbd>
