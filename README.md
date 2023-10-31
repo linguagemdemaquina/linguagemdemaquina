@@ -83,8 +83,8 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 
 ## Redes Sociais ##
-[<kbd><img alt="instagram" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_insta.png" /></kbd>](https://www.instagram.com/linguagemdemaquina/)
-[<kbd><img alt="linkedin" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_linkedin.png" /></kbd>](https://www.linkedin.com/in/marcelotostadesantana/)
+[<kbd><img alt="instagram" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeinsta.png" /></kbd>](https://www.instagram.com/linguagemdemaquina/)
+[<kbd><img alt="linkedin" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconelinkedin.png" /></kbd>](https://www.linkedin.com/in/marcelotostadesantana/)
 
 
 
