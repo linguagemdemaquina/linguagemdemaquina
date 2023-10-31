@@ -30,7 +30,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 *Email : marcelotosta@linguagemdemaquina.com.br*
 <br>
 <br>
-*Qualificação :*
+***Qualificação Técnica***
 <br>
 *- Certificação - Front End - Universidade Estácio de Sá*
 <br>
@@ -62,13 +62,13 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |MYSQL|NOSQL|
 |:-------:|:--------:|
-|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icmysql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_nosql.png"></kbd>|
+|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconemysql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconenosql.png"></kbd>|
 
 #### IDE'S ####
 
 |VSCODE|ANDROID|FLUTTER|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="vscode" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_vscode.png"></kbd>|<kbd><img id="android" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_android.png"></kbd>|<kbd><img id="flutter" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_flutter.png"></kbd>|
+|<kbd><img id="vscode" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconevscode.png"></kbd>|<kbd><img id="android" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeandroid.png"></kbd>|<kbd><img id="flutter" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeflutter.png"></kbd>|
 
 <br>
 <br>
