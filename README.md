@@ -60,6 +60,13 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 |:-------:|:--------:|:--------:|
 |<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconephp7.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconejava.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconepython.png"></kbd>|
 
+#### UI/UX Design ####
+
+|XD|EXPRESS|PS|
+|:-------:|:--------:|:--------:|
+|<kbd><img id="xd" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_xd.png"></kbd>|<kbd><img id="adobe_express" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_adobexpress.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_ps.png"></kbd>| 
+
+
 #### DBA ####
 
 |MYSQL|NOSQL|
