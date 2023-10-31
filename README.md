@@ -46,15 +46,17 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 ## Atuação ##
 
-#### Front End Developer ####
+#### Front End Development ####
 
 |HTML5|CSS3|JS|
 |:-------:|:--------:|:--------:|
 |<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconehtml5.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconecss3.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconejs.png"></kbd>| 
-<br>
 
+#### Back End Development ####
 
-
+|PHP7|JAVA|PYTHON|
+|:-------:|:--------:|:--------:|
+|<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_php7.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_java.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_python.png"></kbd>|
 
 Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recursos : 
 
