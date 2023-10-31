@@ -17,7 +17,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 
-## Equipe ##
+## Developer ##
 
 ![AVATAR](https://www.linguagemdemaquina.com.br/avatar/avatar_transparente.png "Marcelo Tosta - FullStack Developer")
 <br>
@@ -30,7 +30,9 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 *Email : marcelotosta@linguagemdemaquina.com.br*
 <br>
 <br>
-***Qualificação Técnica***
+***Qualificação***
+<br>
+*- Graduação - Ciência da Computação - Universidade Estácio de Sá (7/8)*
 <br>
 *- Certificação - Front End - Universidade Estácio de Sá*
 <br>
