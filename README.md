@@ -56,7 +56,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |PHP7|JAVA|PYTHON|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_php7.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_java.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_python.png"></kbd>|
+|<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconephp7.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconejava.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconepython.png"></kbd>|
 
 Utilizamos os seguintes Ambientes de Desenvolvimento Integrado (IDE's) e recursos : 
 
