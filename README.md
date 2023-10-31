@@ -64,7 +64,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |XD|EXPRESS|PS|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="xd" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_xd.png"></kbd>|<kbd><img id="adobe_express" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_adobexpress.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_ps.png"></kbd>| 
+|<kbd><img id="xd" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconexd.png"></kbd>|<kbd><img id="adobe_express" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeadobexpress.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeps.png"></kbd>| 
 
 
 #### DBA ####
@@ -82,8 +82,9 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 
-## Encontre-nos nas redes sociais
-[<img alt="instagram" width="48px" height="48px" src="https://www.linguagemdemaquina.com.br/icones/icone_instagram.png" />](https://www.instagram.com/linguagemdemaquina/ "Instagram")
+## Redes Sociais ##
+[<kbd><img alt="instagram" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_insta.png" /></kbd>](https://www.instagram.com/linguagemdemaquina/)
+[<kbd><img alt="linkedin" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_linkedin.png" /></kbd>](https://www.linkedin.com/in/marcelotostadesantana/)
 
 
 
