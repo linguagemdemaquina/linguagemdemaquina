@@ -63,7 +63,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |HTML5|CSS3|JS|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconehtml5_.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_css3.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_js.png"></kbd>|
+|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_html5.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_css3.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_js.png"></kbd>|
 
 
 #### Back End Development ####
@@ -71,6 +71,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 |PHP7|JAVA|PYTHON|
 |:-------:|:--------:|:--------:|
 |<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconephp7.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconejava.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconepython.png"></kbd>|
+|:-------:|:--------:|:--------:|
 |PyQT5|     |      |
 |<kbd><img id="qt5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeqt.png"></kbd>|
 
