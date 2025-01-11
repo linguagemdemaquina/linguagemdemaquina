@@ -57,16 +57,16 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 
-## Atuação ##
+## COMPETÊNCIAS ##
 
-#### Front End Development ####
+#### FRONT END DEV ####
 
 |HTML|CSS|JS|
 |:-------:|:--------:|:--------:|
 |<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ichtml.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iccss.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icjs.png"></kbd>|
 
 
-#### Back End Development ####
+#### BACK END DEV ####
 
 |PHP|JAVA|PYTHON|PyQT|
 |:-------:|:--------:|:--------:|:--------:|
@@ -95,9 +95,9 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 
-## Redes Sociais ##
-[<kbd><img alt="instagram" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeinsta.png" /></kbd>](https://www.instagram.com/linguagemdemaquina/)
-[<kbd><img alt="linkedin" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconelinkedin.png" /></kbd>](https://www.linkedin.com/in/marcelotostadesantana/)
+## REDES SOCIAIS ##
+[<kbd><img alt="instagram" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icinstagram.png" /></kbd>](https://www.instagram.com/linguagemdemaquina/)
+[<kbd><img alt="linkedin" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iclinkedin.png" /></kbd>](https://www.linkedin.com/in/marcelotostadesantana/)
 
 
 
