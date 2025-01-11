@@ -45,6 +45,8 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 *- Certificação em Desenvolvimento Rápido em Python - Big Data, Cloud e IoT*
 <br>
+*- Experiência de 10 anos em projetos de automação em Indústria Petroquímica (SDCD / PLC)*
+<br>
 <br>
 <br>
 <kbd>
