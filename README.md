@@ -19,7 +19,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 ## Developer ##
 
-<kbd><img id="foto_pessoal" width="150px" height="150px" src="[https://www.linguagemdemaquina.com.br/2025/imagens/foto_pessoal.jpg]"></kbd>
+<kbd><img id="foto_pessoal" width="150px" height="150px" style="border-radius:50%" src="https://www.linguagemdemaquina.com.br/2025/imagens/foto_pessoal.jpg"></kbd>
 <br>
 ***Marcelo Tosta***
 <br>
