@@ -17,13 +17,15 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 
-## Quem sou ##
+## QUEM SOU ##
 
 <kbd><img id="foto_pessoal" width="150px" height="150px" src="https://www.linguagemdemaquina.com.br/2025/imagens/foto_pessoal.jpg"></kbd>
 <br>
 ***Marcelo Tosta***
 <br>
+<br>
 *FullStack Dev - Web | Mobile | Automação*
+<br>
 <br>
 *Website : https://www.linguagemdemaquina.com.br*
 <br>
@@ -31,7 +33,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 <br>
-***Qualificação***
+***Qualificações***
 <br>
 *- Bacharel em Ciência da Computação*
 <br>
