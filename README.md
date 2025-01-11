@@ -50,9 +50,9 @@ Automação de rotinas e Internet das Coisas (IoT) também são escopo de nossas
 <br>
 *- Certificação em Desenvolvimento Rápido em Python - Big Data, Cloud e IoT*
 <br>
-*- Experiência de mais de 19 anos em indústria petroquímica, sendo 10 destes em projetos de Automação (Configuração e Lógica), Controle Regulatório e SIS  (SDCD/PLC) : Tecnologias Yokogawa CS3000, CENTUM VP e Invenys Triconex*
+*- Experiência de mais de 19 anos em indústria petroquímica, sendo 10 destes anos voltados a projetos de Automação (Configuração e Lógica), Controle Regulatório (SDCD) e SIS (PLC) - Tecnologias Yokogawa CS3000, CENTUM VP e Invenys Triconex*
 <br>
-*- Operação e Docência em Simulador de Processo Petroquímico - Tecnologia KBR - Processo de Produção de Amônia*
+*- Operação e Docência em Simulador de Processo Petroquímico - Tecnologia KBR - Processo de Industrial UGH / Produção de Amônia*
 <br>
 <br>
 <br>
