@@ -19,7 +19,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 ## Quem sou ##
 
-<kbd><img id="foto_pessoal" width="150px" height="150px" style="border-radius:50%" src="https://www.linguagemdemaquina.com.br/2025/imagens/foto_pessoal.jpg"></kbd>
+<kbd><img id="foto_pessoal" width="150px" height="150px" src="https://www.linguagemdemaquina.com.br/2025/imagens/foto_pessoal.jpg"></kbd>
 <br>
 ***Marcelo Tosta***
 <br>
@@ -45,7 +45,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 *- Certificação em Desenvolvimento Rápido em Python - Big Data, Cloud e IoT*
 <br>
-*- Experiência de 10 anos em projetos de automação em Indústria Petroquímica (SDCD / PLC)*
+*- Experiência de mais de 19 anos indústria petroquímica, sendo 10 destes em projetos de automação Controle Regulatório e SIS (SDCD/PLC)*
 <br>
 <br>
 <br>
@@ -69,7 +69,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 |PHP7|JAVA|PYTHON|
 |:-------:|:--------:|:--------:|
 |<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconephp7.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconejava.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconepython.png"></kbd>|
-|:-------:|:--------:|:--------:|
+|PyQT5|     |      |
 |<kbd><img id="qt5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeqt.png"></kbd>|
 
 #### UI/UX Design ####
