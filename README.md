@@ -45,7 +45,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 *- Certificação em Desenvolvimento Rápido em Python - Big Data, Cloud e IoT*
 <br>
-*- Experiência de mais de 19 anos em indústria petroquímica, sendo 10 destes em projetos de Automação (Configuração e Lógica), Controle Regulatório e SIS - SDCD/PLC*
+*- Experiência de mais de 19 anos em indústria petroquímica, sendo 10 destes em projetos de Automação (Configuração e Lógica), Controle Regulatório e SIS - SDCD/PLC : Tecnologia Yokogawa CS3000 e VP : Invenys Triconnex*
 <br>
 <br>
 <br>
