@@ -63,21 +63,21 @@ Automação de rotinas e Internet das Coisas (IoT) também são escopo de nossas
 
 ## COMPETÊNCIAS ##
 
-#### FRONT END DEV ####
+#### DESENVOLVIMENTO FRONT-END ####
 
 |HTML|CSS|JS|
 |:-------:|:--------:|:--------:|
 |<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ichtml.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iccss.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icjs.png"></kbd>|
 
 
-#### BACK END DEV ####
+#### DESENVOLVIMENTO BACK-END ####
 
 |PHP|JAVA|PYTHON|PyQT|
 |:-------:|:--------:|:--------:|:--------:|
 |<kbd><img id="php" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icphp.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icjava.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icpython.png"></kbd>|<kbd><img id="qt5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icpyqt.png"></kbd>|
 
 
-#### UI/UX Design ####
+#### UI/UX ####
 
 |XD|EXPRESS|PS|
 |:-------:|:--------:|:--------:|
