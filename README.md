@@ -19,9 +19,9 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 ## Developer ##
 
-![AVATAR](https://www.linguagemdemaquina.com.br/avatar/avatar_transparente.png "Marcelo Tosta - FullStack Developer")
+![AVATAR](https://www.linguagemdemaquina.com.br/2025/imagens/foto_pessoal.jpg  "Marcelo Tosta - FullStack Dev - Web | Mobile | Automação")
 <br>
-***Marcelo Tosta de Santana***
+***Marcelo Tosta***
 <br>
 *FullStack Dev - Web | Mobile | Automação*
 <br>
