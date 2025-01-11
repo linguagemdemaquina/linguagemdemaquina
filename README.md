@@ -13,7 +13,7 @@ Automação de rotinas e Internet das Coisas (IoT) também são escopo de nossas
 Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborativo, aprimorando conceitos, boas práticas, discussões técnicas e experiências, envolvendo e integrando os demais profissionais que atuam na mesma área que a nossa.
 <br>
 <br>
-*Esperamos que gostem e que possamos cresecer juntos por aqui. Sejam bem vindos !*
+*Esperamos que gostem e que possamos crescer juntos por aqui. Sejam bem vindos !*
 <br>
 <br>
 
@@ -61,7 +61,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |HTML5|CSS3|JS|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconehtml5.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_css3.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_js.png"></kbd>|
+|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconehtml5_.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_css3.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_js.png"></kbd>|
 
 
 #### Back End Development ####
