@@ -17,7 +17,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 
-## Developer ##
+## Quem sou ##
 
 <kbd><img id="foto_pessoal" width="150px" height="150px" style="border-radius:50%" src="https://www.linguagemdemaquina.com.br/2025/imagens/foto_pessoal.jpg"></kbd>
 <br>
@@ -28,6 +28,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 *Website : https://www.linguagemdemaquina.com.br*
 <br>
 *Email : marcelotosta@linguagemdemaquina.com.br*
+<br>
 <br>
 <br>
 ***Qualificação***
