@@ -63,7 +63,7 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |HTML5|CSS3|JS|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_html5.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_css3.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icone_js.png"></kbd>|
+|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ico_html.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ico_css.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ico_js.png"></kbd>|
 
 
 #### Back End Development ####
