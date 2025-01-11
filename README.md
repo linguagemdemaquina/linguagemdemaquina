@@ -63,34 +63,34 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |HTML|CSS|JS|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_html.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_css.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_js.png"></kbd>|
+|<kbd><img id="html5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ichtml.png"></kbd>|<kbd><img id="css3" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iccss.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icjs.png"></kbd>|
 
 
 #### Back End Development ####
 
 |PHP|JAVA|PYTHON|PyQT|
 |:-------:|:--------:|:--------:|:--------:|
-|<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_php.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_java.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_python.png"></kbd>|<kbd><img id="qt5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_pyqt.png"></kbd>|
+|<kbd><img id="php" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icphp.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icjava.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icpython.png"></kbd>|<kbd><img id="qt5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icpyqt.png"></kbd>|
 
 
 #### UI/UX Design ####
 
 |XD|EXPRESS|PS|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="xd" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_xd.png"></kbd>|<kbd><img id="adobe_express" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_ax.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_ps.png"></kbd>| 
+|<kbd><img id="xd" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icxd.png"></kbd>|<kbd><img id="adobe_express" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icax.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icps.png"></kbd>| 
 
 
 #### BASES DE DADOS ####
 
 |MYSQL|NOSQL|
 |:-------:|:--------:|
-|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_mysql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_nosql.png"></kbd>|
+|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icmysql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icnosql.png"></kbd>|
 
 #### IDE'S ####
 
 |VSCODE|ANDROID|FLUTTER|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="vscode" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_vscode.png"></kbd>|<kbd><img id="android" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_android.png"></kbd>|<kbd><img id="flutter" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_flutter.png"></kbd>|
+|<kbd><img id="vscode" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icvscode.png"></kbd>|<kbd><img id="android" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icandroid.png"></kbd>|<kbd><img id="flutter" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icflutter.png"></kbd>|
 
 <br>
 <br>
