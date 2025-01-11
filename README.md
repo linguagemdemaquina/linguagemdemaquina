@@ -70,27 +70,27 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 
 |PHP|JAVA|PYTHON|PyQT|
 |:-------:|:--------:|:--------:|:--------:|
-|<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_php.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconejava.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconepython.png"></kbd>|<kbd><img id="qt5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_pyqt.png"></kbd>|
+|<kbd><img id="php7" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_php.png"></kbd>|<kbd><img id="java" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_java.png"></kbd>|<kbd><img id="python" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_python.png"></kbd>|<kbd><img id="qt5" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_pyqt.png"></kbd>|
 
 
 #### UI/UX Design ####
 
 |XD|EXPRESS|PS|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="xd" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconexd.png"></kbd>|<kbd><img id="adobe_express" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeadobexpress.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeps.png"></kbd>| 
+|<kbd><img id="xd" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_xd.png"></kbd>|<kbd><img id="adobe_express" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_ax.png"></kbd>|<kbd><img id="js" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_ps.png"></kbd>| 
 
 
-#### DBA ####
+#### BASES DE DADOS ####
 
 |MYSQL|NOSQL|
 |:-------:|:--------:|
-|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconemy-sql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconenosql.png"></kbd>|
+|<kbd><img id="mysql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_mysql.png"></kbd>|<kbd><img id="nosql" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_nosql.png"></kbd>|
 
 #### IDE'S ####
 
 |VSCODE|ANDROID|FLUTTER|
 |:-------:|:--------:|:--------:|
-|<kbd><img id="vscode" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconevscode.png"></kbd>|<kbd><img id="android" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeandroid.png"></kbd>|<kbd><img id="flutter" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/iconeflutter.png"></kbd>|
+|<kbd><img id="vscode" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_vscode.png"></kbd>|<kbd><img id="android" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_android.png"></kbd>|<kbd><img id="flutter" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/ic_flutter.png"></kbd>|
 
 <br>
 <br>
