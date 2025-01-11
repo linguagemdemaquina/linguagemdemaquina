@@ -23,7 +23,6 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 ***Marcelo Tosta***
 <br>
-<br>
 *FullStack Dev - Web | Mobile | Automação*
 <br>
 <br>
@@ -53,9 +52,8 @@ Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborati
 <br>
 <br>
 <br>
-<kbd>
-  <img alt="avatar" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/landingpage_paralax/imagens_paralax/avatar.png"/>
-</kbd>
+<kbd><img id="avatar" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icavatar.png"></kbd>
+<kbd><img id="logomarca" width="50px" height="50px" src="https://www.linguagemdemaquina.com.br/portifolio/icones/icxicara.png"></kbd>
 <br>
 <br>
 
