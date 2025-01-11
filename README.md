@@ -4,16 +4,20 @@
 Somos uma empresa de tecnologia voltada para o desenvolvimento de sistemas para internet, aplicativos web & mobile, projetos nas áreas de design e marketing digital.
 <br>
 <br>
-Estamos neste nicho desde 2016, quando começamos a atuar na cidade de Fortaleza-CE. Nossos projetos focam principalmente na integração de recursos, buscando a máxima eficiência e praticidade para o usuário. 
+Estamos neste nicho desde 2016, quando começamos a atuar na cidade de Fortaleza-CE. 
+<br>
+Nossos projetos focam principalmente na integração de recursos, buscando a máxima eficiência e praticidade para o usuário. 
 <br>
 <br>
 Automação de rotinas e Internet das Coisas (IoT) também são escopo de nossas atividades.
 <br>
 <br>
-Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborativo, aprimorando conceitos, boas práticas, discussões técnicas e experiências, envolvendo e integrando os demais profissionais que atuam na mesma área que a nossa.
+***Nossa participação no GitHub tem o objetivo de propiciar um espaço colaborativo, aprimorando conceitos, boas práticas, discussões técnicas e experiências, envolvendo e integrando os demais profissionais que atuam na mesma área que a nossa.***
 <br>
 <br>
-*Esperamos que gostem e que possamos crescer juntos por aqui. Sejam bem vindos !*
+*Esperamos que gostem e que possamos crescer juntos por aqui.*
+<br>
+*Sejam bem vindos !*
 <br>
 <br>
 
