@@ -40,6 +40,8 @@ Automação de rotinas e Internet das Coisas (IoT) também são escopo de nossas
 <br>
 *- Bacharel em Ciência da Computação*
 <br>
+*- Pós-Graduando em Engenharia de Controle e Automação*
+<br>
 *- Certificação em Desenvolvimento Front-End*
 <br>
 *- Certificação em Desenvolvimento Back-End*
